@@ -37,6 +37,12 @@ Example:
         }
     }
 
+## Examples
+
+    Brodo.ajax({
+      url: 'https://api.github.com/zen',
+      callback: function(err, res) {console.log(arguments)}
+    })
 
 Version
 ----
