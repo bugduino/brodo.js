@@ -10,12 +10,12 @@ Just include the `` brodo.js `` file in you project:
 <script src="lib/brodo.js"></script>
 ```
 
-There are 4 methods available, each of them can take two parameteres ``url`` and ``params``.
+There are 4 methods available, each of them can take one argument:  ``params``.
 
 ####Params
-can contains the following keys:
+Params can be a URL string or an object, in this case can contains the following keys:
 
-``url``: a valid string URL,
+``url``: a valid string URL [REQUIRED],
 
 ``method``: any valid HTTP method. Default: ``GET``,
 
