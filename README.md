@@ -44,6 +44,10 @@ Example:
       callback: function(err, res) {console.log(arguments)}
     })
 
+or simply
+
+    Brodo.ajax('https://api.github.com/zen');
+
 Version
 ----
 
