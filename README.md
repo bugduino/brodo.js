@@ -33,7 +33,7 @@ Params can be a URL string or an object, in this case can contains the following
 
 ``headers``: headers, if defined, must be a js object with valid header key and values,
 
-``callback``: callback is a function that will be called once the state of the request is DONE.
+``callback``: callback is a function that will be called once the state of the request is DONE. It should be in node-style ``callback(err, res)``
 
 Example: 
 
