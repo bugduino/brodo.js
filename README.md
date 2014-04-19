@@ -12,6 +12,16 @@ Just include the `` brodo.js `` file in you project:
 
 There are 4 methods available, each of them can take one argument:  ``params``.
 
+####API
+
+``get(params)``
+
+``getJSON(params)``
+
+``post(params)``
+
+``ajax(params)``
+
 ####Params
 Params can be a URL string or an object, in this case can contains the following keys:
 
