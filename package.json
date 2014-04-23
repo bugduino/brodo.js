@@ -1,0 +1,16 @@
+{
+  "name": "brodo",
+  "version": "0.1.0",
+  "author": "William Bergamo <bugduino@gmail.com>",
+  "description": "a minimal, lightweight and fast ajax library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giulyquinto/brodo.js"
+  },
+  "keywords": [
+    "brodo",
+    "ajax",
+    "async"
+  ]
+  
+}
